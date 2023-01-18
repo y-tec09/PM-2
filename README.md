@@ -1,2 +1,2 @@
 # PM-2
-Segundo diseño de sitio web desarrollado para pequeños negocios.
+Segundo diseño de página web desarrollado para pequeños negocios.
